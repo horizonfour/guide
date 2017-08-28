@@ -5,8 +5,7 @@ O que é a horizon?
 ### [Nosso culture code](culture.md)
 
 ### Processos
-Assim como o spotify separamos nossas equipes em squads. 
-https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/
+(Assim como o spotify separamos nossas equipes em squads.)[https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1]
 
 Squads são autonomos e tem liberdade de tecnologias desde que convença que a solução é apropriada e vai resolver o problema, fica mais aberto ainda quando é um produto interno que vai ser desenvolvido pelo próprio time.
 
@@ -23,8 +22,9 @@ Squads atuais:
 Já que cada Squad segue seus próprios processos como manter a qualidade de todos os Squads? Para isso existe o grupo de lideres de conversar sobre as melhores formas melhorarem o proprio time, seja em organização, comunicação ou entrega.
 
 #### Talks
-https://github.com/horizonfour/talks
 Procuramos organizar semanalmente talks dentro da Horizon Four.
+
+[Neste link](https://github.com/horizonfour/talks) colocamos algumas palestras internas que tivemos.
 
 ##### Internas
 As talks internas servem como forma estimular o time a criar e compartilhar conteúdo, sendo uma otima oportunidade para treinar falar em publico, organizar ideias, etc.
@@ -53,29 +53,40 @@ Para entrar basta avisar alguem da equipe que você ainda não está no grupo do
 
 Channels dentro do slack:
 
-- General
+- **General**
+
 Assuntos gerais, informações de escopo de time e etc.
-- Desafios
+- **Desafios**
+
 Sugestão de desafios, conversa sobre os desafios.
-- Talks
+- **Talks**
 Submissão de talks, sugestão de palestrantes e conteúdo.
-- Development
+
+- **Development**
 Conversas sobre desenvolvimento
-- Comercial
+
+- **Comercial**
 Conversas sobre comercial
-- Criação
+
+- **Criação**
 Conversas sobre criação
-- Design
+
+- **Design**
 Conversas sobre design
-- Reuniões
+
+- **Reuniões**
 Alinhamento de reuniões
-- Estudo
+
+- **Estudo**
 Compartilhamento de conteúdo de estudo
-- Eventos
+
+- **Eventos**
 Compartilhamento de eventos de tecnologia
-- Random
+
+- **Random**
 Aleatório ou ~a zueira~
-- Especificos *
+
+- **Especificos**
 Para cada squad existe um channel no slack
 
 ### Sugestões?
