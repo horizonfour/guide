@@ -1,11 +1,11 @@
-## Guia da Horizon Four
+# Guia da Horizon Four
 
 O que é a horizon?
 
-### [Nosso culture code](culture.md)
+## [Nosso culture code](culture.md)
 
-### Processos
-(Assim como o spotify separamos nossas equipes em squads.)[https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1]
+## Processos
+[Assim como o spotify separamos nossas equipes em squads.](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1)
 
 Squads são autonomos e tem liberdade de tecnologias desde que convença que a solução é apropriada e vai resolver o problema, fica mais aberto ainda quando é um produto interno que vai ser desenvolvido pelo próprio time.
 
@@ -18,38 +18,38 @@ Squads atuais:
 - Shawee
 - [Kitado](squad_kitado.md)
 
-#### Lideres
+### Lideres
 Já que cada Squad segue seus próprios processos como manter a qualidade de todos os Squads? Para isso existe o grupo de lideres de conversar sobre as melhores formas melhorarem o proprio time, seja em organização, comunicação ou entrega.
 
-#### Talks
+### Talks
 Procuramos organizar semanalmente talks dentro da Horizon Four.
 
 [Neste link](https://github.com/horizonfour/talks) colocamos algumas palestras internas que tivemos.
 
-##### Internas
+#### Internas
 As talks internas servem como forma estimular o time a criar e compartilhar conteúdo, sendo uma otima oportunidade para treinar falar em publico, organizar ideias, etc.
 Para sugerir uma talk ou se prontificar para dar uma basta enviar pelo canal no Slack, pode ser conteúdo tecnico ou não tecnico, avançado ou iniciante, teorico ou prático. Tanto faz :smile:
 Geralmente fazemos de sexta-feira no fim da tarde e o time sempre vai procurar estar 100% presente neste horário para ver a tal.
 
-##### Externas
+#### Externas
 É altamente estimulado que pessoas de fora também palestrem dentro da H4, essas pessoas além agregar coisas de fora ainda nós forçam a melhorar ainda mais. 
 Talks externas podem ser feitas por qualquer pessoa interessada, essas pessoas podem ser desde alguem de seu colega de outra empresa que pode agregar até alguem muito top, e todo mundo tem a liberdade de chamar pessoas para dar talks internas.
 
-#### Challenges
+### Challenges
 Procuramos sempre incentivar a logica e curiosidade. Portanto organizamos [neste repositorio](https://github.com/horizonfour/talks) semanalmente desafios de algoritmos e logicas para serem resolvidos.
 Deve-se fazer TDD da sua logica e se é altamente estimulado que voce o desafio para aprender uma linguagem nova.
 
-#### Feedbacks
+### Feedbacks
 Todo mes a Horizon procura dar feedbacks, receber feedbacks(negativos ou positivos) e sugestões de todas as pessoas da equipe. Dessa forma podemos sempre estar corrigindo os erros, melhorando o que falta e mantendo o que é bom.
 
-### Comunicação
+## Comunicação
 
-#### Grupo do Whatsapp
+### Grupo do Whatsapp
 
 Temos um grupo do Whatsapp que usamos para a comunicação geral do time sem formalidades.
 Para entrar basta avisar alguem da equipe que você ainda não está no grupo do whatsapp.
 
-#### Slack
+### Slack
 
 Channels dentro do slack:
 
@@ -99,5 +99,5 @@ Aleatório ou ~a zueira~
 
 Para cada squad existe um channel no slack
 
-### Sugestões?
-Qualquer sugestão de coisas para serem implementadas ou que podem melhorar a empresa são bem vindas.
+## Sugestões?
+Qualquer sugestão de coisas a serem implementadas são bem vindas.
