@@ -60,33 +60,43 @@ Assuntos gerais, informações de escopo de time e etc.
 
 Sugestão de desafios, conversa sobre os desafios.
 - **Talks**
+
 Submissão de talks, sugestão de palestrantes e conteúdo.
 
 - **Development**
+
 Conversas sobre desenvolvimento
 
 - **Comercial**
+
 Conversas sobre comercial
 
 - **Criação**
+
 Conversas sobre criação
 
 - **Design**
+
 Conversas sobre design
 
 - **Reuniões**
+
 Alinhamento de reuniões
 
 - **Estudo**
+
 Compartilhamento de conteúdo de estudo
 
 - **Eventos**
+
 Compartilhamento de eventos de tecnologia
 
 - **Random**
+
 Aleatório ou ~a zueira~
 
 - **Especificos**
+
 Para cada squad existe um channel no slack
 
 ### Sugestões?
