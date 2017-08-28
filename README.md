@@ -29,7 +29,7 @@ Procuramos organizar semanalmente talks dentro da Horizon Four.
 #### Internas
 As talks internas servem como forma estimular o time a criar e compartilhar conteúdo, sendo uma otima oportunidade para treinar falar em publico, organizar ideias, etc.
 Para sugerir uma talk ou se prontificar para dar uma basta enviar pelo canal no Slack, pode ser conteúdo tecnico ou não tecnico, avançado ou iniciante, teorico ou prático. Tanto faz :smile:
-Geralmente fazemos de sexta-feira no fim da tarde e o time sempre vai procurar estar 100% presente neste horário para ver a tal.
+Geralmente fazemos de sexta-feira no fim da tarde e o time sempre vai procurar estar 100% presente neste horário para ver a talk.
 
 #### Externas
 É altamente estimulado que pessoas de fora também palestrem dentro da H4, essas pessoas além agregar coisas de fora ainda nós forçam a melhorar ainda mais. 
