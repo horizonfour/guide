@@ -6,7 +6,7 @@ O que é a horizon?
 ## Time
 Escolha seu nickname e foto para o Website da [horizonfour.com.br](http://horizonfour.com.br)
 
-![nickname team](resources/time.png)
+![nickname team](resources/time.jpg)
 
 ## Processos
 [Assim como o spotify separamos nossas equipes em squads.](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1)
